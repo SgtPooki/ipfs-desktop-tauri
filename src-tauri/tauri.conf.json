@@ -60,6 +60,12 @@
     ],
     "security": {
       "csp": null
+    },
+    "pattern": {
+      "use": "isolation",
+      "options": {
+        "dir": "../dist-isolation"
+      }
     }
   }
 }
